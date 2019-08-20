@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ContourMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="start_game">Пачаць</string>
+
+    <string name="geo_selector_quiz_question_1">Вобласць, якая мяжуе з Літвой, Латвіяй і Расіяй</string>
+    <string name="geo_selector_quiz_question_2">Вобласць, у межах якой здабываецца 95% беларускай нафты</string>
+    <string name="geo_selector_quiz_question_3">Вобласць, найбольш поўна якая выпрабавала ўсе абляднення чацвярцічнага перыяду</string>
+    <string name="geo_selector_quiz_question_4">Вобласць, у сучасных межах якой нарадзіліся Янка Купала, Якуб Колас і Максім Багдановіч</string>
+    <string name="geo_selector_quiz_question_5">Вобласць, у якой размешчаны Лідскі і Крэўскі замкі</string>
+    <string name="geo_selector_quiz_question_6">Вобласць, якая найбольш пацярпела ад аварыі на ЧАЭС</string>
+    <string name="geo_selector_quiz_question_7">Вобласць, у якой размешчаны гарады Мсціслаў, Крычаў і Асіповічы</string>
+    <string name="geo_selector_quiz_question_8">Вобласць, якая лідыруе па валавых зборах лёну</string>
+    <string name="geo_selector_quiz_question_9">Вобласць, у якой перасякаюцца пан\'еўрапейскіх транспартныя калідоры №2 і №10</string>
+    <string name="geo_selector_quiz_question_10">Вобласць з найбольшым удзельнай вагой сельскага насельніцтва і найбольш спрыяльнай дэмаграфічнай сітуацыяй у сельскай мясцовасці</string>
+
+    <string name="geo_selector_quiz_question_11">Раён, у якім размешчана найбуйнейшае верхавое балота Беларусі</string>
+    <string name="geo_selector_quiz_question_12">Самы ўсходні раён Беларусі</string>
+    <string name="geo_selector_quiz_question_13">Адзіны раён, назва якога не супадае з назвай адміністрацыйнага цэнтра</string>
+    <string name="geo_selector_quiz_question_14">Раён, у якім размешчаны геаграфічны цэнтр Еўропы</string>
+    <string name="geo_selector_quiz_question_15">Раён, у якім 90% насельніцтва складаюць палякі</string>
+    <string name="geo_selector_quiz_question_16">Раён, у якім адбываюцца асноўныя дзеянні рамана Івана Мележа "Людзі на балоце"</string>
+    <string name="geo_selector_quiz_question_17">Раён, у якім дзейнічае найбуйнейшая электрастанцыя Беларусі</string>
+    <string name="geo_selector_quiz_question_18">Раён, у якім размешчаны Мірскі замак</string>
+    <string name="geo_selector_quiz_question_19">Раён, які ўяўляе футбольны клуб "Граніт"</string>
+    <string name="geo_selector_quiz_question_20">Раён, у якім размешчана найбуйнейшае ў Беларусі вадасховішчы</string>
+    <string name="geo_selector_quiz_question_21">Раён, на тэрыторыі якога вам сустрэнуцца такія формы рэльефу як тэрыконы</string>
+
+
+    <string name="geo_selector_quiz_count_pattern">Пытанне %s з %s</string>
+    <string name="geo_selector_accept">Пацвердзіць</string>
+    <string name="geo_selector_next">Далей</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ContourMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_game">Начать</string>
+    <string name="lang_ru" translatable="false">РУС</string>
+    <string name="lang_by" translatable="false">БЕЛ</string>
+
+    <string name="geo_selector_quiz_question_1">Область, которая граничит с Литвой, Латвией и Россией</string>
+    <string name="geo_selector_quiz_question_2">Область, в пределах которой добывается 95 % белорусской нефти</string>
+    <string name="geo_selector_quiz_question_3">Область, наиболее полно испытавшая все оледенения четвертичного периода</string>
+    <string name="geo_selector_quiz_question_4">Область, в современных пределах которой родились Янка Купала, Якуб Колас и Максим Богданович</string>
+    <string name="geo_selector_quiz_question_5">Область, в которой расположены Лидский и Кревский замки</string>
+    <string name="geo_selector_quiz_question_6">Область, наиболее пострадавшая от аварии на ЧАЭС</string>
+    <string name="geo_selector_quiz_question_7">Область, в которой расположены города Мстиславль, Кричев и Осиповичи</string>
+    <string name="geo_selector_quiz_question_8">Область, лидирующую по валовым сборам льна</string>
+    <string name="geo_selector_quiz_question_9">Область, в которой пересекаются панъевропейские транспортные коридоры №2 и №10</string>
+    <string name="geo_selector_quiz_question_10">Область с наибольшим удельным весом сельского населения и наиболее благоприятной демографической ситуацией в сельской местности</string>
+
+    <string name="geo_selector_quiz_question_11">Район, в котором расположено крупнейшее верховое болото Беларуси</string>
+    <string name="geo_selector_quiz_question_12">Самый восточный район Беларуси</string>
+    <string name="geo_selector_quiz_question_13">Единственный район, название которого не совпадает с названием административного центра</string>
+    <string name="geo_selector_quiz_question_14">Район, в котором расположен географический центр Европы</string>
+    <string name="geo_selector_quiz_question_15">Район, в котором 90 % населения составляют поляки</string>
+    <string name="geo_selector_quiz_question_16">Район, в котором происходят основные действия романа Ивана Мележа “Люди на болоте”</string>
+    <string name="geo_selector_quiz_question_17">Район, в котором действует крупнейшая электростанция Беларуси</string>
+    <string name="geo_selector_quiz_question_18">Район, в котором расположен Мирский замок</string>
+    <string name="geo_selector_quiz_question_19">Район, который представляет футбольный клуб “Гранит”</string>
+    <string name="geo_selector_quiz_question_20">Район, в котором расположено крупнейшее в Беларуси водохранилище</string>
+    <string name="geo_selector_quiz_question_21">Район, на территории которого вам встретятся такие формы рельефа как терриконы</string>
+
+
+    <string name="geo_selector_quiz_count_pattern">Вопрос %s из %s</string>
+    <string name="geo_selector_accept">Подтвердить</string>
+    <string name="geo_selector_next">Далее</string>
+
+</resources>
